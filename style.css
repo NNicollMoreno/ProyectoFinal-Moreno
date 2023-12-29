@@ -1,0 +1,85 @@
+.btn{
+    margin: 2px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #db4547e1;
+    outline: #5d2647a2;
+}
+
+.btn:hover{
+    background-color: #c53e41;
+}
+
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffc5c7;
+}
+
+.card-body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.total{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-total{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+footer {
+    background-color: #db4547e1;
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .row {
+    padding: 2em;
+  }
+  .row.primary {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    align-items: stretch;
+  }
+  .column {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1em 2em;
+    min-height: 15em;
+  }
+  .footer-name {
+    width: 100%;
+    text-align: left;
+    color: #ffffff;
+    font-size: 1.9em;
+    font-family: 'Montserrat', sans-serif;
+  }
+  ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    margin-top: 15px;
+  }
+  ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  ul li a:hover {
+    color: #9F3548;
+  }
+  .about p {
+    text-align: justify;
+    margin-top: 20px;
+  }
+  .copyright {
+    padding: 0.3em ;
+    background-color: #5d2647a2;
+  }
+  .copyright p {
+    font-size: 0.9em;
+    text-align: center;
+    margin-top: 15px;
+  }
